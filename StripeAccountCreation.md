@@ -26,8 +26,7 @@ Use the Dashboard to copy your payment link and share it online. Click the copy 
    * Social Media Platforms
 
 ## 4 Go Live
-1. In the Dashboard, open your [Account settings]().   
-Testing.
+1. In the Dashboard, open your [Account settings]().
 2. Enter your business type, tax details, business details, personal verification information and customer-facing information (for example, a statement descriptor).
 3. Add bank details to confirm where to pay out your money.
 4. Set up two-step authentication to secure your account.
@@ -44,7 +43,7 @@ Testing.
 |Accept subscriptions with a prebuilt checkout page|Set up recurring payments and subscription management.|
 |Build an Embedded form checkout|Customers enter payment details directly on your site without redirection from your site or app.|
 
->**Note:** Chrome extensions
+>Chrome extensions
 We recommend you build your payment integration with Stripe (such as Elements or Checkout) on your own website. Then, set up your Chrome extension to send users to this payment page when they’re ready to complete a purchase.<br>
 This method is more secure and easier to maintain than trying to handle payments directly within the extension.
 
