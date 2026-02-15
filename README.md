@@ -1,4 +1,11 @@
+- [Accept simple payments for a startup](#accept-simple-payments-for-a-startup)
+  - [1 Create a Stripe Account](#1-create-a-stripe-account)
+  - [2 Create a Payment Link](#2-create-a-payment-link)
+  - [3 Share the Payment Link with your customers](#3-share-the-payment-link-with-your-customers)
+  - [4 Go Live](#4-go-live)
+
 # Accept simple payments for a startup
+
 Learn how to enable Stripe payments for your business without writing code.
 This guide describes the actions you need to take in your Stripe integration to accept one-off payments as a startup.
 ## 1 Create a Stripe Account
